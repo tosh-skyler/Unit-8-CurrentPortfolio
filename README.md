@@ -10,3 +10,13 @@ This is a redesign of the original portfolio I created at the beginning of the U
 * Material Design Dark Theme by Google
 * Material Icons by Google
 * CSS Grid
+
+## To-Do
+
+* Create the outline
+* Create the basic theme
+* Add working navigation
+* Add images
+* Transitions 
+* Animations
+* MVP
