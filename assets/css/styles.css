@@ -11,7 +11,6 @@ body {
 }
 
 img {
-	display: block;
 	width: 100%;
 	height: auto;
 }
@@ -77,13 +76,32 @@ p {
 
 /* Section A */
 
-#section-a {
+#section-a .content-wrap {
 	background: #eaeaea;
 	color: #333;
 	padding-bottom: 2em;
 }
 
+#subsection-1 {
+	display: grid;
+	grid-template-columns: 2fr;
+	grid-template-rows: auto;
+	justify-content: space-evenly;
+}
+
+#subsection-1 #pfp{
+	height: 10em;
+	width: 10em;
+	padding: .5em .5em .5em .5em;
+	border-radius: 50%;
+}
+
+
 /* Section B */
+
+#section{
+	padding: 2em 2em 2em 2em;
+}
 
 .card-container {
 	display: flex;
