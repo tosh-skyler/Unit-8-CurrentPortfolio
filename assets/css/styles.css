@@ -2,7 +2,7 @@
 
 body {
 	margin: 0;
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Roboto', sans-serif;
 	background: #333;
 	color: #fff;
 	font-size: 1.1rem;
@@ -28,11 +28,11 @@ p {
 
 .btn {
 	display: inline-block;
-	background: #333333;
+	background: transparent;
 	color: #fff;
 	text-decoration: none;
 	padding: 1em 2em;
-	border: 1px solid #666;
+	border: 1px solid #fff;
 	margin: .5em 0;
 }
 
