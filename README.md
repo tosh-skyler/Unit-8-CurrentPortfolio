@@ -4,6 +4,10 @@
 
 This is a redesign of the original portfolio I created at the beginning of the University of Washington's Bootcamp. The purpose of the new portfolio is to show the growth I've had in the past couple of months.
 
+## Known Bugs
+
+* Font awesome won't link to the local file
+
 ## Design
 
 * Material Deisgn by Google
