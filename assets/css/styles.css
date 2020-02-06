@@ -120,13 +120,40 @@ p {
 }
 
 .mdc-card {
-	height: 250px;
-	width: 150px;
+	height: 25em;
+	width: 15em;
 	color: #333;
+	background-color: rgba(255, 255, 255, 0.95);
+	border: 1px solid #121212;
 	align-items: center;
 	text-align: center;
 	display: flex;
 	justify-content: center;
+}
+
+.mdc-card img {
+	border-top: 1px solid #121212;
+	border-bottom: 1px solid #121212;
+}
+
+.fab{
+	height: 2em;
+	width: 2em;
+	color: #fff;
+	text-decoration: none;
+}
+
+.fas {
+	padding: .4em;
+}
+
+/* Footer */
+
+#main-footer {
+	padding: 2em;
+	background: rgba(18, 18, 18, 0.4);
+	color: #fff;
+	text-align: center;
 }
 
 /* Media Query */
